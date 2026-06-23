@@ -12,3 +12,8 @@ Files in the Repository:
 Requirements:
 
 Tools Used:
+- GitHUb
+- GitBash
+- PowerBI
+
+Capstone Project Link:
