@@ -25,7 +25,7 @@ This Project analyzes sales performance for EmporiUm, a virtual student bookstor
 
 ### Page 1 — Northeast Sales Overview
 **Visuals:**
-1. **KPI Cards** — Total Sales ($33M) | Store Sales ($24.24M) | Online Sales ($8.76M) | Total Transactions (197K) | Top Store State | Top Online State |
+1. **KPI Cards** — Total Sales ($33M) | Store Sales ($24.24M) | Online Sales ($8.76M) | Total Transactions (197K) | Top Store State | Top Online State 
 2. **Line Chart** — Total Sales by Year/Month (2022–2025) with drill-down
 3. **Bar Chart** — Total Sales by Category
 4. **Slicers** — Year | State
