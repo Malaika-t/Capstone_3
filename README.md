@@ -1,6 +1,7 @@
 # Capstone_3 - EmporiUm Sales Performance
 ## Project Overview:
-This Project analyzes sales performance for EmporiUm, a virtual student bookstore operating across college campuses. The report covers 4 years of data (2022–2025) for the Northeast region, which includes:
+This Project analyzes sales performance for EmporiUm, a virtual student bookstore operating across college campuses. The goal is to build a Power BI report that highlights key trends, top-selling products, and regional insights that the sales team, including territory managers and store managers can use to make better business decisions.
+The report covers 4 years of data (2022–2025) for the Northeast region, which includes:
 
 | State | Store Count | Sales Channel |
 |-------|-------------|---------------|
